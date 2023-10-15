@@ -7,7 +7,7 @@
 // }
 // console.log(multiply(4,3))
 
-let multiply =   function (num1, num2) {
+let multiply = function (num1, num2) {
     let result = num1 * num2;
     return result;
 
