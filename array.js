@@ -1,0 +1,1 @@
+let friendsAndFamily = ["Abdallah", "Zunairah", "Suleiman", "Nooralain", "Rayaan", "Aalia", "Anwar", "Salman", "Omar", "Cilmi", "Sacdiyo Yareesay"]
